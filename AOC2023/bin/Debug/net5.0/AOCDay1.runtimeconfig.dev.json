@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mcale\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mcale\\.nuget\\packages"
+    ]
+  }
+}
